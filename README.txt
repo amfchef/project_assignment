@@ -1,1 +1,1 @@
-Det här projektet är till för att visa kunnigheterna som studenterna har inom Linux och Python
+This programe will run in the background, of linux system. It will save and update the current date and nameday, and save it to a textfile named nameday.txt
