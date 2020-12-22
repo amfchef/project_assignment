@@ -1,0 +1,2 @@
+Today's date is: 2020-12-22
+Today's nameday is: ['Natanael', 'Jonatan']

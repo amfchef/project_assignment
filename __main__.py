@@ -1,8 +1,7 @@
-
 from time import sleep
 
-from request.Update_nameday import Update_nameday
-from request.Update_to_txt import Update_to_txt
+from Update_nameday import Update_nameday
+from Update_to_txt import Update_to_txt
 
 while True:
     update_name_day = Update_nameday()
